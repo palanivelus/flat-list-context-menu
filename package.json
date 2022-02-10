@@ -1,0 +1,27 @@
+{
+  "name": "flatlistcontextmenu",
+  "version": "1.0.0",
+  "description": "menu list inside of flat list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "palanivelu samudi",
+  "license": "ISC",
+  "dependencies": {
+    "react": "16.13.1",
+    "react-native": "0.63.4",
+    "react-native-material-menu": "^1.2.0",
+    "react-native-vector-icons": "^8.1.0"
+  },
+  "devDependencies": {
+    "@babel/core": "7.13.1",
+    "@babel/runtime": "7.13.7",
+    "@react-native-community/eslint-config": "1.1.0",
+    "babel-jest": "25.5.1",
+    "eslint": "6.8.0",
+    "jest": "25.5.4",
+    "metro-react-native-babel-preset": "0.59.0",
+    "react-test-renderer": "16.13.1"
+  }
+}
